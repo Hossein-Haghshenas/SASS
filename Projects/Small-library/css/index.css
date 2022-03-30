@@ -52,6 +52,13 @@ li {
   background: #0059ff;
 }
 
+.bg-hover-primery {
+  transition: all 0.5s ease;
+}
+.bg-hover-primery:hover {
+  background: #0059ff;
+}
+
 /* light variations */
 .text-primery-light-1 {
   color: #1a6aff;
@@ -187,6 +194,13 @@ li {
 }
 
 .bg-warning {
+  background: #fbff00;
+}
+
+.bg-hover-warning {
+  transition: all 0.5s ease;
+}
+.bg-hover-warning:hover {
   background: #fbff00;
 }
 
@@ -328,6 +342,13 @@ li {
   background: red;
 }
 
+.bg-hover-danger {
+  transition: all 0.5s ease;
+}
+.bg-hover-danger:hover {
+  background: red;
+}
+
 /* light variations */
 .text-danger-light-1 {
   color: #ff1a1a;
@@ -466,11 +487,25 @@ li {
   background: black;
 }
 
+.bg-hover-black {
+  transition: all 0.5s ease;
+}
+.bg-hover-black:hover {
+  background: black;
+}
+
 .text-red {
   color: red;
 }
 
 .bg-red {
+  background: red;
+}
+
+.bg-hover-red {
+  transition: all 0.5s ease;
+}
+.bg-hover-red:hover {
   background: red;
 }
 
@@ -612,6 +647,13 @@ li {
   background: #2bff00;
 }
 
+.bg-hover-green {
+  transition: all 0.5s ease;
+}
+.bg-hover-green:hover {
+  background: #2bff00;
+}
+
 /* light variations */
 .text-green-light-1 {
   color: #40ff1a;
@@ -747,6 +789,13 @@ li {
 }
 
 .bg-magenta {
+  background: #9900ff;
+}
+
+.bg-hover-magenta {
+  transition: all 0.5s ease;
+}
+.bg-hover-magenta:hover {
   background: #9900ff;
 }
 
@@ -888,6 +937,13 @@ li {
   background: #fcf700;
 }
 
+.bg-hover-yellow {
+  transition: all 0.5s ease;
+}
+.bg-hover-yellow:hover {
+  background: #fcf700;
+}
+
 /* light variations */
 .text-yellow-light-1 {
   color: #fcf81a;
@@ -1023,6 +1079,13 @@ li {
 }
 
 .bg-white {
+  background: white;
+}
+
+.bg-hover-white {
+  transition: all 0.5s ease;
+}
+.bg-hover-white:hover {
   background: white;
 }
 

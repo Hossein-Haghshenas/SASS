@@ -5,6 +5,12 @@
   .bg-#{$key} {
     background: $val;
   }
+  .bg-hover-#{$key} {
+    transition: $transition;
+    &:hover {
+      background: $val;
+    }
+  }
 
   @if ($val != black and $val != white) {
     /* light variations */
