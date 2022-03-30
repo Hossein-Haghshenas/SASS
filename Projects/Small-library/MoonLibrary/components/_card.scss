@@ -17,6 +17,7 @@
   .card-body {
     padding: $p1;
     text-align: center;
+    color: map-get($colors, "magenta");
     a {
       color: green;
     }
