@@ -22,6 +22,15 @@
       .bg-#{$key}-light-#{$i} {
         background: mix(rgb(255, 255, 255), $val, $i * 10);
       }
+
+      /* light hover */
+
+      .bg-hover-#{$key}-light-#{$i} {
+        transition: $transition;
+        &:hover {
+          background: mix(rgb(255, 255, 255), $val, $i * 10);
+        }
+      }
     }
 
     /* dark variations */
@@ -32,6 +41,15 @@
       }
       .bg-#{$key}-dark-#{$i} {
         background: mix(rgb(0, 0, 0), $val, $i * 10);
+      }
+
+      /* dark hover */
+
+      .bg-hover-#{$key}-dark-#{$i} {
+        transition: $transition;
+        &:hover {
+          background: mix(rgb(0, 0, 0), $val, $i * 10);
+        }
       }
     }
   }

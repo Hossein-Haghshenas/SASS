@@ -68,11 +68,27 @@ li {
   background: #1a6aff;
 }
 
+/* light hover */
+.bg-hover-primery-light-1 {
+  transition: all 0.5s ease;
+}
+.bg-hover-primery-light-1:hover {
+  background: #1a6aff;
+}
+
 .text-primery-light-2 {
   color: #337aff;
 }
 
 .bg-primery-light-2 {
+  background: #337aff;
+}
+
+/* light hover */
+.bg-hover-primery-light-2 {
+  transition: all 0.5s ease;
+}
+.bg-hover-primery-light-2:hover {
   background: #337aff;
 }
 
@@ -84,11 +100,27 @@ li {
   background: #4d8bff;
 }
 
+/* light hover */
+.bg-hover-primery-light-3 {
+  transition: all 0.5s ease;
+}
+.bg-hover-primery-light-3:hover {
+  background: #4d8bff;
+}
+
 .text-primery-light-4 {
   color: #669bff;
 }
 
 .bg-primery-light-4 {
+  background: #669bff;
+}
+
+/* light hover */
+.bg-hover-primery-light-4 {
+  transition: all 0.5s ease;
+}
+.bg-hover-primery-light-4:hover {
   background: #669bff;
 }
 
@@ -100,11 +132,27 @@ li {
   background: #80acff;
 }
 
+/* light hover */
+.bg-hover-primery-light-5 {
+  transition: all 0.5s ease;
+}
+.bg-hover-primery-light-5:hover {
+  background: #80acff;
+}
+
 .text-primery-light-6 {
   color: #99bdff;
 }
 
 .bg-primery-light-6 {
+  background: #99bdff;
+}
+
+/* light hover */
+.bg-hover-primery-light-6 {
+  transition: all 0.5s ease;
+}
+.bg-hover-primery-light-6:hover {
   background: #99bdff;
 }
 
@@ -116,11 +164,27 @@ li {
   background: #b3cdff;
 }
 
+/* light hover */
+.bg-hover-primery-light-7 {
+  transition: all 0.5s ease;
+}
+.bg-hover-primery-light-7:hover {
+  background: #b3cdff;
+}
+
 .text-primery-light-8 {
   color: #ccdeff;
 }
 
 .bg-primery-light-8 {
+  background: #ccdeff;
+}
+
+/* light hover */
+.bg-hover-primery-light-8 {
+  transition: all 0.5s ease;
+}
+.bg-hover-primery-light-8:hover {
   background: #ccdeff;
 }
 
@@ -133,11 +197,27 @@ li {
   background: #0050e6;
 }
 
+/* dark hover */
+.bg-hover-primery-dark-1 {
+  transition: all 0.5s ease;
+}
+.bg-hover-primery-dark-1:hover {
+  background: #0050e6;
+}
+
 .text-primery-dark-2 {
   color: #0047cc;
 }
 
 .bg-primery-dark-2 {
+  background: #0047cc;
+}
+
+/* dark hover */
+.bg-hover-primery-dark-2 {
+  transition: all 0.5s ease;
+}
+.bg-hover-primery-dark-2:hover {
   background: #0047cc;
 }
 
@@ -149,11 +229,27 @@ li {
   background: #003eb3;
 }
 
+/* dark hover */
+.bg-hover-primery-dark-3 {
+  transition: all 0.5s ease;
+}
+.bg-hover-primery-dark-3:hover {
+  background: #003eb3;
+}
+
 .text-primery-dark-4 {
   color: #003599;
 }
 
 .bg-primery-dark-4 {
+  background: #003599;
+}
+
+/* dark hover */
+.bg-hover-primery-dark-4 {
+  transition: all 0.5s ease;
+}
+.bg-hover-primery-dark-4:hover {
   background: #003599;
 }
 
@@ -165,11 +261,27 @@ li {
   background: #002d80;
 }
 
+/* dark hover */
+.bg-hover-primery-dark-5 {
+  transition: all 0.5s ease;
+}
+.bg-hover-primery-dark-5:hover {
+  background: #002d80;
+}
+
 .text-primery-dark-6 {
   color: #002466;
 }
 
 .bg-primery-dark-6 {
+  background: #002466;
+}
+
+/* dark hover */
+.bg-hover-primery-dark-6 {
+  transition: all 0.5s ease;
+}
+.bg-hover-primery-dark-6:hover {
   background: #002466;
 }
 
@@ -181,11 +293,27 @@ li {
   background: #001b4d;
 }
 
+/* dark hover */
+.bg-hover-primery-dark-7 {
+  transition: all 0.5s ease;
+}
+.bg-hover-primery-dark-7:hover {
+  background: #001b4d;
+}
+
 .text-primery-dark-8 {
   color: #001233;
 }
 
 .bg-primery-dark-8 {
+  background: #001233;
+}
+
+/* dark hover */
+.bg-hover-primery-dark-8 {
+  transition: all 0.5s ease;
+}
+.bg-hover-primery-dark-8:hover {
   background: #001233;
 }
 
@@ -213,11 +341,27 @@ li {
   background: #fbff1a;
 }
 
+/* light hover */
+.bg-hover-warning-light-1 {
+  transition: all 0.5s ease;
+}
+.bg-hover-warning-light-1:hover {
+  background: #fbff1a;
+}
+
 .text-warning-light-2 {
   color: #fcff33;
 }
 
 .bg-warning-light-2 {
+  background: #fcff33;
+}
+
+/* light hover */
+.bg-hover-warning-light-2 {
+  transition: all 0.5s ease;
+}
+.bg-hover-warning-light-2:hover {
   background: #fcff33;
 }
 
@@ -229,11 +373,27 @@ li {
   background: #fcff4d;
 }
 
+/* light hover */
+.bg-hover-warning-light-3 {
+  transition: all 0.5s ease;
+}
+.bg-hover-warning-light-3:hover {
+  background: #fcff4d;
+}
+
 .text-warning-light-4 {
   color: #fdff66;
 }
 
 .bg-warning-light-4 {
+  background: #fdff66;
+}
+
+/* light hover */
+.bg-hover-warning-light-4 {
+  transition: all 0.5s ease;
+}
+.bg-hover-warning-light-4:hover {
   background: #fdff66;
 }
 
@@ -245,11 +405,27 @@ li {
   background: #fdff80;
 }
 
+/* light hover */
+.bg-hover-warning-light-5 {
+  transition: all 0.5s ease;
+}
+.bg-hover-warning-light-5:hover {
+  background: #fdff80;
+}
+
 .text-warning-light-6 {
   color: #fdff99;
 }
 
 .bg-warning-light-6 {
+  background: #fdff99;
+}
+
+/* light hover */
+.bg-hover-warning-light-6 {
+  transition: all 0.5s ease;
+}
+.bg-hover-warning-light-6:hover {
   background: #fdff99;
 }
 
@@ -261,11 +437,27 @@ li {
   background: #feffb3;
 }
 
+/* light hover */
+.bg-hover-warning-light-7 {
+  transition: all 0.5s ease;
+}
+.bg-hover-warning-light-7:hover {
+  background: #feffb3;
+}
+
 .text-warning-light-8 {
   color: #feffcc;
 }
 
 .bg-warning-light-8 {
+  background: #feffcc;
+}
+
+/* light hover */
+.bg-hover-warning-light-8 {
+  transition: all 0.5s ease;
+}
+.bg-hover-warning-light-8:hover {
   background: #feffcc;
 }
 
@@ -278,11 +470,27 @@ li {
   background: #e2e600;
 }
 
+/* dark hover */
+.bg-hover-warning-dark-1 {
+  transition: all 0.5s ease;
+}
+.bg-hover-warning-dark-1:hover {
+  background: #e2e600;
+}
+
 .text-warning-dark-2 {
   color: #c9cc00;
 }
 
 .bg-warning-dark-2 {
+  background: #c9cc00;
+}
+
+/* dark hover */
+.bg-hover-warning-dark-2 {
+  transition: all 0.5s ease;
+}
+.bg-hover-warning-dark-2:hover {
   background: #c9cc00;
 }
 
@@ -294,11 +502,27 @@ li {
   background: #b0b300;
 }
 
+/* dark hover */
+.bg-hover-warning-dark-3 {
+  transition: all 0.5s ease;
+}
+.bg-hover-warning-dark-3:hover {
+  background: #b0b300;
+}
+
 .text-warning-dark-4 {
   color: #979900;
 }
 
 .bg-warning-dark-4 {
+  background: #979900;
+}
+
+/* dark hover */
+.bg-hover-warning-dark-4 {
+  transition: all 0.5s ease;
+}
+.bg-hover-warning-dark-4:hover {
   background: #979900;
 }
 
@@ -310,11 +534,27 @@ li {
   background: #7e8000;
 }
 
+/* dark hover */
+.bg-hover-warning-dark-5 {
+  transition: all 0.5s ease;
+}
+.bg-hover-warning-dark-5:hover {
+  background: #7e8000;
+}
+
 .text-warning-dark-6 {
   color: #646600;
 }
 
 .bg-warning-dark-6 {
+  background: #646600;
+}
+
+/* dark hover */
+.bg-hover-warning-dark-6 {
+  transition: all 0.5s ease;
+}
+.bg-hover-warning-dark-6:hover {
   background: #646600;
 }
 
@@ -326,11 +566,27 @@ li {
   background: #4b4d00;
 }
 
+/* dark hover */
+.bg-hover-warning-dark-7 {
+  transition: all 0.5s ease;
+}
+.bg-hover-warning-dark-7:hover {
+  background: #4b4d00;
+}
+
 .text-warning-dark-8 {
   color: #323300;
 }
 
 .bg-warning-dark-8 {
+  background: #323300;
+}
+
+/* dark hover */
+.bg-hover-warning-dark-8 {
+  transition: all 0.5s ease;
+}
+.bg-hover-warning-dark-8:hover {
   background: #323300;
 }
 
@@ -358,11 +614,27 @@ li {
   background: #ff1a1a;
 }
 
+/* light hover */
+.bg-hover-danger-light-1 {
+  transition: all 0.5s ease;
+}
+.bg-hover-danger-light-1:hover {
+  background: #ff1a1a;
+}
+
 .text-danger-light-2 {
   color: #ff3333;
 }
 
 .bg-danger-light-2 {
+  background: #ff3333;
+}
+
+/* light hover */
+.bg-hover-danger-light-2 {
+  transition: all 0.5s ease;
+}
+.bg-hover-danger-light-2:hover {
   background: #ff3333;
 }
 
@@ -374,11 +646,27 @@ li {
   background: #ff4d4d;
 }
 
+/* light hover */
+.bg-hover-danger-light-3 {
+  transition: all 0.5s ease;
+}
+.bg-hover-danger-light-3:hover {
+  background: #ff4d4d;
+}
+
 .text-danger-light-4 {
   color: #ff6666;
 }
 
 .bg-danger-light-4 {
+  background: #ff6666;
+}
+
+/* light hover */
+.bg-hover-danger-light-4 {
+  transition: all 0.5s ease;
+}
+.bg-hover-danger-light-4:hover {
   background: #ff6666;
 }
 
@@ -390,11 +678,27 @@ li {
   background: #ff8080;
 }
 
+/* light hover */
+.bg-hover-danger-light-5 {
+  transition: all 0.5s ease;
+}
+.bg-hover-danger-light-5:hover {
+  background: #ff8080;
+}
+
 .text-danger-light-6 {
   color: #ff9999;
 }
 
 .bg-danger-light-6 {
+  background: #ff9999;
+}
+
+/* light hover */
+.bg-hover-danger-light-6 {
+  transition: all 0.5s ease;
+}
+.bg-hover-danger-light-6:hover {
   background: #ff9999;
 }
 
@@ -406,11 +710,27 @@ li {
   background: #ffb3b3;
 }
 
+/* light hover */
+.bg-hover-danger-light-7 {
+  transition: all 0.5s ease;
+}
+.bg-hover-danger-light-7:hover {
+  background: #ffb3b3;
+}
+
 .text-danger-light-8 {
   color: #ffcccc;
 }
 
 .bg-danger-light-8 {
+  background: #ffcccc;
+}
+
+/* light hover */
+.bg-hover-danger-light-8 {
+  transition: all 0.5s ease;
+}
+.bg-hover-danger-light-8:hover {
   background: #ffcccc;
 }
 
@@ -423,11 +743,27 @@ li {
   background: #e60000;
 }
 
+/* dark hover */
+.bg-hover-danger-dark-1 {
+  transition: all 0.5s ease;
+}
+.bg-hover-danger-dark-1:hover {
+  background: #e60000;
+}
+
 .text-danger-dark-2 {
   color: #cc0000;
 }
 
 .bg-danger-dark-2 {
+  background: #cc0000;
+}
+
+/* dark hover */
+.bg-hover-danger-dark-2 {
+  transition: all 0.5s ease;
+}
+.bg-hover-danger-dark-2:hover {
   background: #cc0000;
 }
 
@@ -439,11 +775,27 @@ li {
   background: #b30000;
 }
 
+/* dark hover */
+.bg-hover-danger-dark-3 {
+  transition: all 0.5s ease;
+}
+.bg-hover-danger-dark-3:hover {
+  background: #b30000;
+}
+
 .text-danger-dark-4 {
   color: #990000;
 }
 
 .bg-danger-dark-4 {
+  background: #990000;
+}
+
+/* dark hover */
+.bg-hover-danger-dark-4 {
+  transition: all 0.5s ease;
+}
+.bg-hover-danger-dark-4:hover {
   background: #990000;
 }
 
@@ -455,11 +807,27 @@ li {
   background: maroon;
 }
 
+/* dark hover */
+.bg-hover-danger-dark-5 {
+  transition: all 0.5s ease;
+}
+.bg-hover-danger-dark-5:hover {
+  background: maroon;
+}
+
 .text-danger-dark-6 {
   color: #660000;
 }
 
 .bg-danger-dark-6 {
+  background: #660000;
+}
+
+/* dark hover */
+.bg-hover-danger-dark-6 {
+  transition: all 0.5s ease;
+}
+.bg-hover-danger-dark-6:hover {
   background: #660000;
 }
 
@@ -471,11 +839,27 @@ li {
   background: #4d0000;
 }
 
+/* dark hover */
+.bg-hover-danger-dark-7 {
+  transition: all 0.5s ease;
+}
+.bg-hover-danger-dark-7:hover {
+  background: #4d0000;
+}
+
 .text-danger-dark-8 {
   color: #330000;
 }
 
 .bg-danger-dark-8 {
+  background: #330000;
+}
+
+/* dark hover */
+.bg-hover-danger-dark-8 {
+  transition: all 0.5s ease;
+}
+.bg-hover-danger-dark-8:hover {
   background: #330000;
 }
 
@@ -518,11 +902,27 @@ li {
   background: #ff1a1a;
 }
 
+/* light hover */
+.bg-hover-red-light-1 {
+  transition: all 0.5s ease;
+}
+.bg-hover-red-light-1:hover {
+  background: #ff1a1a;
+}
+
 .text-red-light-2 {
   color: #ff3333;
 }
 
 .bg-red-light-2 {
+  background: #ff3333;
+}
+
+/* light hover */
+.bg-hover-red-light-2 {
+  transition: all 0.5s ease;
+}
+.bg-hover-red-light-2:hover {
   background: #ff3333;
 }
 
@@ -534,11 +934,27 @@ li {
   background: #ff4d4d;
 }
 
+/* light hover */
+.bg-hover-red-light-3 {
+  transition: all 0.5s ease;
+}
+.bg-hover-red-light-3:hover {
+  background: #ff4d4d;
+}
+
 .text-red-light-4 {
   color: #ff6666;
 }
 
 .bg-red-light-4 {
+  background: #ff6666;
+}
+
+/* light hover */
+.bg-hover-red-light-4 {
+  transition: all 0.5s ease;
+}
+.bg-hover-red-light-4:hover {
   background: #ff6666;
 }
 
@@ -550,11 +966,27 @@ li {
   background: #ff8080;
 }
 
+/* light hover */
+.bg-hover-red-light-5 {
+  transition: all 0.5s ease;
+}
+.bg-hover-red-light-5:hover {
+  background: #ff8080;
+}
+
 .text-red-light-6 {
   color: #ff9999;
 }
 
 .bg-red-light-6 {
+  background: #ff9999;
+}
+
+/* light hover */
+.bg-hover-red-light-6 {
+  transition: all 0.5s ease;
+}
+.bg-hover-red-light-6:hover {
   background: #ff9999;
 }
 
@@ -566,11 +998,27 @@ li {
   background: #ffb3b3;
 }
 
+/* light hover */
+.bg-hover-red-light-7 {
+  transition: all 0.5s ease;
+}
+.bg-hover-red-light-7:hover {
+  background: #ffb3b3;
+}
+
 .text-red-light-8 {
   color: #ffcccc;
 }
 
 .bg-red-light-8 {
+  background: #ffcccc;
+}
+
+/* light hover */
+.bg-hover-red-light-8 {
+  transition: all 0.5s ease;
+}
+.bg-hover-red-light-8:hover {
   background: #ffcccc;
 }
 
@@ -583,11 +1031,27 @@ li {
   background: #e60000;
 }
 
+/* dark hover */
+.bg-hover-red-dark-1 {
+  transition: all 0.5s ease;
+}
+.bg-hover-red-dark-1:hover {
+  background: #e60000;
+}
+
 .text-red-dark-2 {
   color: #cc0000;
 }
 
 .bg-red-dark-2 {
+  background: #cc0000;
+}
+
+/* dark hover */
+.bg-hover-red-dark-2 {
+  transition: all 0.5s ease;
+}
+.bg-hover-red-dark-2:hover {
   background: #cc0000;
 }
 
@@ -599,11 +1063,27 @@ li {
   background: #b30000;
 }
 
+/* dark hover */
+.bg-hover-red-dark-3 {
+  transition: all 0.5s ease;
+}
+.bg-hover-red-dark-3:hover {
+  background: #b30000;
+}
+
 .text-red-dark-4 {
   color: #990000;
 }
 
 .bg-red-dark-4 {
+  background: #990000;
+}
+
+/* dark hover */
+.bg-hover-red-dark-4 {
+  transition: all 0.5s ease;
+}
+.bg-hover-red-dark-4:hover {
   background: #990000;
 }
 
@@ -615,11 +1095,27 @@ li {
   background: maroon;
 }
 
+/* dark hover */
+.bg-hover-red-dark-5 {
+  transition: all 0.5s ease;
+}
+.bg-hover-red-dark-5:hover {
+  background: maroon;
+}
+
 .text-red-dark-6 {
   color: #660000;
 }
 
 .bg-red-dark-6 {
+  background: #660000;
+}
+
+/* dark hover */
+.bg-hover-red-dark-6 {
+  transition: all 0.5s ease;
+}
+.bg-hover-red-dark-6:hover {
   background: #660000;
 }
 
@@ -631,11 +1127,27 @@ li {
   background: #4d0000;
 }
 
+/* dark hover */
+.bg-hover-red-dark-7 {
+  transition: all 0.5s ease;
+}
+.bg-hover-red-dark-7:hover {
+  background: #4d0000;
+}
+
 .text-red-dark-8 {
   color: #330000;
 }
 
 .bg-red-dark-8 {
+  background: #330000;
+}
+
+/* dark hover */
+.bg-hover-red-dark-8 {
+  transition: all 0.5s ease;
+}
+.bg-hover-red-dark-8:hover {
   background: #330000;
 }
 
@@ -663,11 +1175,27 @@ li {
   background: #40ff1a;
 }
 
+/* light hover */
+.bg-hover-green-light-1 {
+  transition: all 0.5s ease;
+}
+.bg-hover-green-light-1:hover {
+  background: #40ff1a;
+}
+
 .text-green-light-2 {
   color: #55ff33;
 }
 
 .bg-green-light-2 {
+  background: #55ff33;
+}
+
+/* light hover */
+.bg-hover-green-light-2 {
+  transition: all 0.5s ease;
+}
+.bg-hover-green-light-2:hover {
   background: #55ff33;
 }
 
@@ -679,11 +1207,27 @@ li {
   background: #6bff4d;
 }
 
+/* light hover */
+.bg-hover-green-light-3 {
+  transition: all 0.5s ease;
+}
+.bg-hover-green-light-3:hover {
+  background: #6bff4d;
+}
+
 .text-green-light-4 {
   color: #80ff66;
 }
 
 .bg-green-light-4 {
+  background: #80ff66;
+}
+
+/* light hover */
+.bg-hover-green-light-4 {
+  transition: all 0.5s ease;
+}
+.bg-hover-green-light-4:hover {
   background: #80ff66;
 }
 
@@ -695,11 +1239,27 @@ li {
   background: #95ff80;
 }
 
+/* light hover */
+.bg-hover-green-light-5 {
+  transition: all 0.5s ease;
+}
+.bg-hover-green-light-5:hover {
+  background: #95ff80;
+}
+
 .text-green-light-6 {
   color: #aaff99;
 }
 
 .bg-green-light-6 {
+  background: #aaff99;
+}
+
+/* light hover */
+.bg-hover-green-light-6 {
+  transition: all 0.5s ease;
+}
+.bg-hover-green-light-6:hover {
   background: #aaff99;
 }
 
@@ -711,11 +1271,27 @@ li {
   background: #bfffb3;
 }
 
+/* light hover */
+.bg-hover-green-light-7 {
+  transition: all 0.5s ease;
+}
+.bg-hover-green-light-7:hover {
+  background: #bfffb3;
+}
+
 .text-green-light-8 {
   color: #d5ffcc;
 }
 
 .bg-green-light-8 {
+  background: #d5ffcc;
+}
+
+/* light hover */
+.bg-hover-green-light-8 {
+  transition: all 0.5s ease;
+}
+.bg-hover-green-light-8:hover {
   background: #d5ffcc;
 }
 
@@ -728,11 +1304,27 @@ li {
   background: #27e600;
 }
 
+/* dark hover */
+.bg-hover-green-dark-1 {
+  transition: all 0.5s ease;
+}
+.bg-hover-green-dark-1:hover {
+  background: #27e600;
+}
+
 .text-green-dark-2 {
   color: #22cc00;
 }
 
 .bg-green-dark-2 {
+  background: #22cc00;
+}
+
+/* dark hover */
+.bg-hover-green-dark-2 {
+  transition: all 0.5s ease;
+}
+.bg-hover-green-dark-2:hover {
   background: #22cc00;
 }
 
@@ -744,11 +1336,27 @@ li {
   background: #1eb300;
 }
 
+/* dark hover */
+.bg-hover-green-dark-3 {
+  transition: all 0.5s ease;
+}
+.bg-hover-green-dark-3:hover {
+  background: #1eb300;
+}
+
 .text-green-dark-4 {
   color: #1a9900;
 }
 
 .bg-green-dark-4 {
+  background: #1a9900;
+}
+
+/* dark hover */
+.bg-hover-green-dark-4 {
+  transition: all 0.5s ease;
+}
+.bg-hover-green-dark-4:hover {
   background: #1a9900;
 }
 
@@ -760,11 +1368,27 @@ li {
   background: #168000;
 }
 
+/* dark hover */
+.bg-hover-green-dark-5 {
+  transition: all 0.5s ease;
+}
+.bg-hover-green-dark-5:hover {
+  background: #168000;
+}
+
 .text-green-dark-6 {
   color: #116600;
 }
 
 .bg-green-dark-6 {
+  background: #116600;
+}
+
+/* dark hover */
+.bg-hover-green-dark-6 {
+  transition: all 0.5s ease;
+}
+.bg-hover-green-dark-6:hover {
   background: #116600;
 }
 
@@ -776,11 +1400,27 @@ li {
   background: #0d4d00;
 }
 
+/* dark hover */
+.bg-hover-green-dark-7 {
+  transition: all 0.5s ease;
+}
+.bg-hover-green-dark-7:hover {
+  background: #0d4d00;
+}
+
 .text-green-dark-8 {
   color: #093300;
 }
 
 .bg-green-dark-8 {
+  background: #093300;
+}
+
+/* dark hover */
+.bg-hover-green-dark-8 {
+  transition: all 0.5s ease;
+}
+.bg-hover-green-dark-8:hover {
   background: #093300;
 }
 
@@ -808,11 +1448,27 @@ li {
   background: #a31aff;
 }
 
+/* light hover */
+.bg-hover-magenta-light-1 {
+  transition: all 0.5s ease;
+}
+.bg-hover-magenta-light-1:hover {
+  background: #a31aff;
+}
+
 .text-magenta-light-2 {
   color: #ad33ff;
 }
 
 .bg-magenta-light-2 {
+  background: #ad33ff;
+}
+
+/* light hover */
+.bg-hover-magenta-light-2 {
+  transition: all 0.5s ease;
+}
+.bg-hover-magenta-light-2:hover {
   background: #ad33ff;
 }
 
@@ -824,11 +1480,27 @@ li {
   background: #b84dff;
 }
 
+/* light hover */
+.bg-hover-magenta-light-3 {
+  transition: all 0.5s ease;
+}
+.bg-hover-magenta-light-3:hover {
+  background: #b84dff;
+}
+
 .text-magenta-light-4 {
   color: #c266ff;
 }
 
 .bg-magenta-light-4 {
+  background: #c266ff;
+}
+
+/* light hover */
+.bg-hover-magenta-light-4 {
+  transition: all 0.5s ease;
+}
+.bg-hover-magenta-light-4:hover {
   background: #c266ff;
 }
 
@@ -840,11 +1512,27 @@ li {
   background: #cc80ff;
 }
 
+/* light hover */
+.bg-hover-magenta-light-5 {
+  transition: all 0.5s ease;
+}
+.bg-hover-magenta-light-5:hover {
+  background: #cc80ff;
+}
+
 .text-magenta-light-6 {
   color: #d699ff;
 }
 
 .bg-magenta-light-6 {
+  background: #d699ff;
+}
+
+/* light hover */
+.bg-hover-magenta-light-6 {
+  transition: all 0.5s ease;
+}
+.bg-hover-magenta-light-6:hover {
   background: #d699ff;
 }
 
@@ -856,11 +1544,27 @@ li {
   background: #e0b3ff;
 }
 
+/* light hover */
+.bg-hover-magenta-light-7 {
+  transition: all 0.5s ease;
+}
+.bg-hover-magenta-light-7:hover {
+  background: #e0b3ff;
+}
+
 .text-magenta-light-8 {
   color: #ebccff;
 }
 
 .bg-magenta-light-8 {
+  background: #ebccff;
+}
+
+/* light hover */
+.bg-hover-magenta-light-8 {
+  transition: all 0.5s ease;
+}
+.bg-hover-magenta-light-8:hover {
   background: #ebccff;
 }
 
@@ -873,11 +1577,27 @@ li {
   background: #8a00e6;
 }
 
+/* dark hover */
+.bg-hover-magenta-dark-1 {
+  transition: all 0.5s ease;
+}
+.bg-hover-magenta-dark-1:hover {
+  background: #8a00e6;
+}
+
 .text-magenta-dark-2 {
   color: #7a00cc;
 }
 
 .bg-magenta-dark-2 {
+  background: #7a00cc;
+}
+
+/* dark hover */
+.bg-hover-magenta-dark-2 {
+  transition: all 0.5s ease;
+}
+.bg-hover-magenta-dark-2:hover {
   background: #7a00cc;
 }
 
@@ -889,11 +1609,27 @@ li {
   background: #6b00b3;
 }
 
+/* dark hover */
+.bg-hover-magenta-dark-3 {
+  transition: all 0.5s ease;
+}
+.bg-hover-magenta-dark-3:hover {
+  background: #6b00b3;
+}
+
 .text-magenta-dark-4 {
   color: #5c0099;
 }
 
 .bg-magenta-dark-4 {
+  background: #5c0099;
+}
+
+/* dark hover */
+.bg-hover-magenta-dark-4 {
+  transition: all 0.5s ease;
+}
+.bg-hover-magenta-dark-4:hover {
   background: #5c0099;
 }
 
@@ -905,11 +1641,27 @@ li {
   background: #4d0080;
 }
 
+/* dark hover */
+.bg-hover-magenta-dark-5 {
+  transition: all 0.5s ease;
+}
+.bg-hover-magenta-dark-5:hover {
+  background: #4d0080;
+}
+
 .text-magenta-dark-6 {
   color: #3d0066;
 }
 
 .bg-magenta-dark-6 {
+  background: #3d0066;
+}
+
+/* dark hover */
+.bg-hover-magenta-dark-6 {
+  transition: all 0.5s ease;
+}
+.bg-hover-magenta-dark-6:hover {
   background: #3d0066;
 }
 
@@ -921,11 +1673,27 @@ li {
   background: #2e004d;
 }
 
+/* dark hover */
+.bg-hover-magenta-dark-7 {
+  transition: all 0.5s ease;
+}
+.bg-hover-magenta-dark-7:hover {
+  background: #2e004d;
+}
+
 .text-magenta-dark-8 {
   color: #1f0033;
 }
 
 .bg-magenta-dark-8 {
+  background: #1f0033;
+}
+
+/* dark hover */
+.bg-hover-magenta-dark-8 {
+  transition: all 0.5s ease;
+}
+.bg-hover-magenta-dark-8:hover {
   background: #1f0033;
 }
 
@@ -953,11 +1721,27 @@ li {
   background: #fcf81a;
 }
 
+/* light hover */
+.bg-hover-yellow-light-1 {
+  transition: all 0.5s ease;
+}
+.bg-hover-yellow-light-1:hover {
+  background: #fcf81a;
+}
+
 .text-yellow-light-2 {
   color: #fdf933;
 }
 
 .bg-yellow-light-2 {
+  background: #fdf933;
+}
+
+/* light hover */
+.bg-hover-yellow-light-2 {
+  transition: all 0.5s ease;
+}
+.bg-hover-yellow-light-2:hover {
   background: #fdf933;
 }
 
@@ -969,11 +1753,27 @@ li {
   background: #fdf94d;
 }
 
+/* light hover */
+.bg-hover-yellow-light-3 {
+  transition: all 0.5s ease;
+}
+.bg-hover-yellow-light-3:hover {
+  background: #fdf94d;
+}
+
 .text-yellow-light-4 {
   color: #fdfa66;
 }
 
 .bg-yellow-light-4 {
+  background: #fdfa66;
+}
+
+/* light hover */
+.bg-hover-yellow-light-4 {
+  transition: all 0.5s ease;
+}
+.bg-hover-yellow-light-4:hover {
   background: #fdfa66;
 }
 
@@ -985,11 +1785,27 @@ li {
   background: #fefb80;
 }
 
+/* light hover */
+.bg-hover-yellow-light-5 {
+  transition: all 0.5s ease;
+}
+.bg-hover-yellow-light-5:hover {
+  background: #fefb80;
+}
+
 .text-yellow-light-6 {
   color: #fefc99;
 }
 
 .bg-yellow-light-6 {
+  background: #fefc99;
+}
+
+/* light hover */
+.bg-hover-yellow-light-6 {
+  transition: all 0.5s ease;
+}
+.bg-hover-yellow-light-6:hover {
   background: #fefc99;
 }
 
@@ -1001,11 +1817,27 @@ li {
   background: #fefdb3;
 }
 
+/* light hover */
+.bg-hover-yellow-light-7 {
+  transition: all 0.5s ease;
+}
+.bg-hover-yellow-light-7:hover {
+  background: #fefdb3;
+}
+
 .text-yellow-light-8 {
   color: #fefdcc;
 }
 
 .bg-yellow-light-8 {
+  background: #fefdcc;
+}
+
+/* light hover */
+.bg-hover-yellow-light-8 {
+  transition: all 0.5s ease;
+}
+.bg-hover-yellow-light-8:hover {
   background: #fefdcc;
 }
 
@@ -1018,11 +1850,27 @@ li {
   background: #e3de00;
 }
 
+/* dark hover */
+.bg-hover-yellow-dark-1 {
+  transition: all 0.5s ease;
+}
+.bg-hover-yellow-dark-1:hover {
+  background: #e3de00;
+}
+
 .text-yellow-dark-2 {
   color: #cac600;
 }
 
 .bg-yellow-dark-2 {
+  background: #cac600;
+}
+
+/* dark hover */
+.bg-hover-yellow-dark-2 {
+  transition: all 0.5s ease;
+}
+.bg-hover-yellow-dark-2:hover {
   background: #cac600;
 }
 
@@ -1034,11 +1882,27 @@ li {
   background: #b0ad00;
 }
 
+/* dark hover */
+.bg-hover-yellow-dark-3 {
+  transition: all 0.5s ease;
+}
+.bg-hover-yellow-dark-3:hover {
+  background: #b0ad00;
+}
+
 .text-yellow-dark-4 {
   color: #979400;
 }
 
 .bg-yellow-dark-4 {
+  background: #979400;
+}
+
+/* dark hover */
+.bg-hover-yellow-dark-4 {
+  transition: all 0.5s ease;
+}
+.bg-hover-yellow-dark-4:hover {
   background: #979400;
 }
 
@@ -1050,11 +1914,27 @@ li {
   background: #7e7c00;
 }
 
+/* dark hover */
+.bg-hover-yellow-dark-5 {
+  transition: all 0.5s ease;
+}
+.bg-hover-yellow-dark-5:hover {
+  background: #7e7c00;
+}
+
 .text-yellow-dark-6 {
   color: #656300;
 }
 
 .bg-yellow-dark-6 {
+  background: #656300;
+}
+
+/* dark hover */
+.bg-hover-yellow-dark-6 {
+  transition: all 0.5s ease;
+}
+.bg-hover-yellow-dark-6:hover {
   background: #656300;
 }
 
@@ -1066,11 +1946,27 @@ li {
   background: #4c4a00;
 }
 
+/* dark hover */
+.bg-hover-yellow-dark-7 {
+  transition: all 0.5s ease;
+}
+.bg-hover-yellow-dark-7:hover {
+  background: #4c4a00;
+}
+
 .text-yellow-dark-8 {
   color: #323100;
 }
 
 .bg-yellow-dark-8 {
+  background: #323100;
+}
+
+/* dark hover */
+.bg-hover-yellow-dark-8 {
+  transition: all 0.5s ease;
+}
+.bg-hover-yellow-dark-8:hover {
   background: #323100;
 }
 
