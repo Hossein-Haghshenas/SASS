@@ -2008,3 +2008,201 @@ li {
 .card .card-body a {
   color: green;
 }
+
+.btn-primery {
+  text-decoration: none;
+  cursor: pointer;
+  display: inline-block;
+  border: none;
+  padding: 1rem;
+  border-radius: 5rem;
+  background: #0059ff;
+}
+
+.btn-outlined-primery {
+  text-decoration: none;
+  cursor: pointer;
+  display: inline-block;
+  border: none;
+  padding: 1rem;
+  border-radius: 5rem;
+  background: #0059ff;
+  border: 1px solid black;
+  border-color: #0059ff;
+}
+
+.btn-warning {
+  text-decoration: none;
+  cursor: pointer;
+  display: inline-block;
+  border: none;
+  padding: 1rem;
+  border-radius: 5rem;
+  background: #fbff00;
+}
+
+.btn-outlined-warning {
+  text-decoration: none;
+  cursor: pointer;
+  display: inline-block;
+  border: none;
+  padding: 1rem;
+  border-radius: 5rem;
+  background: #fbff00;
+  border: 1px solid black;
+  border-color: #fbff00;
+}
+
+.btn-danger {
+  text-decoration: none;
+  cursor: pointer;
+  display: inline-block;
+  border: none;
+  padding: 1rem;
+  border-radius: 5rem;
+  background: red;
+}
+
+.btn-outlined-danger {
+  text-decoration: none;
+  cursor: pointer;
+  display: inline-block;
+  border: none;
+  padding: 1rem;
+  border-radius: 5rem;
+  background: red;
+  border: 1px solid black;
+  border-color: red;
+}
+
+.btn-black {
+  text-decoration: none;
+  cursor: pointer;
+  display: inline-block;
+  border: none;
+  padding: 1rem;
+  border-radius: 5rem;
+  background: black;
+}
+
+.btn-outlined-black {
+  text-decoration: none;
+  cursor: pointer;
+  display: inline-block;
+  border: none;
+  padding: 1rem;
+  border-radius: 5rem;
+  background: black;
+  border: 1px solid black;
+  border-color: black;
+}
+
+.btn-red {
+  text-decoration: none;
+  cursor: pointer;
+  display: inline-block;
+  border: none;
+  padding: 1rem;
+  border-radius: 5rem;
+  background: red;
+}
+
+.btn-outlined-red {
+  text-decoration: none;
+  cursor: pointer;
+  display: inline-block;
+  border: none;
+  padding: 1rem;
+  border-radius: 5rem;
+  background: red;
+  border: 1px solid black;
+  border-color: red;
+}
+
+.btn-green {
+  text-decoration: none;
+  cursor: pointer;
+  display: inline-block;
+  border: none;
+  padding: 1rem;
+  border-radius: 5rem;
+  background: #2bff00;
+}
+
+.btn-outlined-green {
+  text-decoration: none;
+  cursor: pointer;
+  display: inline-block;
+  border: none;
+  padding: 1rem;
+  border-radius: 5rem;
+  background: #2bff00;
+  border: 1px solid black;
+  border-color: #2bff00;
+}
+
+.btn-magenta {
+  text-decoration: none;
+  cursor: pointer;
+  display: inline-block;
+  border: none;
+  padding: 1rem;
+  border-radius: 5rem;
+  background: #9900ff;
+}
+
+.btn-outlined-magenta {
+  text-decoration: none;
+  cursor: pointer;
+  display: inline-block;
+  border: none;
+  padding: 1rem;
+  border-radius: 5rem;
+  background: #9900ff;
+  border: 1px solid black;
+  border-color: #9900ff;
+}
+
+.btn-yellow {
+  text-decoration: none;
+  cursor: pointer;
+  display: inline-block;
+  border: none;
+  padding: 1rem;
+  border-radius: 5rem;
+  background: #fcf700;
+}
+
+.btn-outlined-yellow {
+  text-decoration: none;
+  cursor: pointer;
+  display: inline-block;
+  border: none;
+  padding: 1rem;
+  border-radius: 5rem;
+  background: #fcf700;
+  border: 1px solid black;
+  border-color: #fcf700;
+}
+
+.btn-white {
+  text-decoration: none;
+  cursor: pointer;
+  display: inline-block;
+  border: none;
+  padding: 1rem;
+  border-radius: 5rem;
+  background: white;
+}
+
+.btn-outlined-white {
+  text-decoration: none;
+  cursor: pointer;
+  display: inline-block;
+  border: none;
+  padding: 1rem;
+  border-radius: 5rem;
+  background: white;
+  border: 1px solid black;
+  border-color: white;
+}

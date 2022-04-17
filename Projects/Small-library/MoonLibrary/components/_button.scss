@@ -1,0 +1,22 @@
+@each $key, $val in $colors {
+  .btn-#{$key} {
+    text-decoration: none;
+    cursor: pointer;
+    display: inline-block;
+    border: none;
+    padding: $p1;
+    border-radius: $btn-radios;
+    background: $val;
+  }
+  .btn-outlined-#{$key} {
+    text-decoration: none;
+    cursor: pointer;
+    display: inline-block;
+    border: none;
+    padding: $p1;
+    border-radius: $btn-radios;
+    background: $val;
+    border: $btn-border;
+    border-color: $val;
+  }
+}
