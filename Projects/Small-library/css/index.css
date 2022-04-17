@@ -2027,6 +2027,9 @@ li {
   border-radius: 5rem;
   background: #0059ff;
 }
+.btn-primery:hover {
+  background: #1a6aff;
+}
 
 .btn-outlined-primery {
   border: 1px solid black;
@@ -2036,7 +2039,10 @@ li {
   display: inline-block;
   padding: 1rem;
   border-radius: 5rem;
-  background: #0059ff;
+  background: transparent;
+}
+.btn-outlined-primery:hover {
+  background: #1a6aff;
 }
 
 .btn-warning {
@@ -2048,6 +2054,9 @@ li {
   border-radius: 5rem;
   background: #fbff00;
 }
+.btn-warning:hover {
+  background: #fbff1a;
+}
 
 .btn-outlined-warning {
   border: 1px solid black;
@@ -2057,7 +2066,10 @@ li {
   display: inline-block;
   padding: 1rem;
   border-radius: 5rem;
-  background: #fbff00;
+  background: transparent;
+}
+.btn-outlined-warning:hover {
+  background: #fbff1a;
 }
 
 .btn-danger {
@@ -2069,6 +2081,9 @@ li {
   border-radius: 5rem;
   background: red;
 }
+.btn-danger:hover {
+  background: #ff1a1a;
+}
 
 .btn-outlined-danger {
   border: 1px solid black;
@@ -2078,7 +2093,10 @@ li {
   display: inline-block;
   padding: 1rem;
   border-radius: 5rem;
-  background: red;
+  background: transparent;
+}
+.btn-outlined-danger:hover {
+  background: #ff1a1a;
 }
 
 .btn-black {
@@ -2090,6 +2108,9 @@ li {
   border-radius: 5rem;
   background: black;
 }
+.btn-black:hover {
+  background: #0d0d0d;
+}
 
 .btn-outlined-black {
   border: 1px solid black;
@@ -2099,7 +2120,10 @@ li {
   display: inline-block;
   padding: 1rem;
   border-radius: 5rem;
-  background: black;
+  background: transparent;
+}
+.btn-outlined-black:hover {
+  background: #0d0d0d;
 }
 
 .btn-red {
@@ -2111,6 +2135,9 @@ li {
   border-radius: 5rem;
   background: red;
 }
+.btn-red:hover {
+  background: #ff1a1a;
+}
 
 .btn-outlined-red {
   border: 1px solid black;
@@ -2120,7 +2147,10 @@ li {
   display: inline-block;
   padding: 1rem;
   border-radius: 5rem;
-  background: red;
+  background: transparent;
+}
+.btn-outlined-red:hover {
+  background: #ff1a1a;
 }
 
 .btn-green {
@@ -2132,6 +2162,9 @@ li {
   border-radius: 5rem;
   background: #2bff00;
 }
+.btn-green:hover {
+  background: #40ff1a;
+}
 
 .btn-outlined-green {
   border: 1px solid black;
@@ -2141,7 +2174,10 @@ li {
   display: inline-block;
   padding: 1rem;
   border-radius: 5rem;
-  background: #2bff00;
+  background: transparent;
+}
+.btn-outlined-green:hover {
+  background: #40ff1a;
 }
 
 .btn-magenta {
@@ -2153,6 +2189,9 @@ li {
   border-radius: 5rem;
   background: #9900ff;
 }
+.btn-magenta:hover {
+  background: #a31aff;
+}
 
 .btn-outlined-magenta {
   border: 1px solid black;
@@ -2162,7 +2201,10 @@ li {
   display: inline-block;
   padding: 1rem;
   border-radius: 5rem;
-  background: #9900ff;
+  background: transparent;
+}
+.btn-outlined-magenta:hover {
+  background: #a31aff;
 }
 
 .btn-yellow {
@@ -2174,6 +2216,9 @@ li {
   border-radius: 5rem;
   background: #fcf700;
 }
+.btn-yellow:hover {
+  background: #fffa17;
+}
 
 .btn-outlined-yellow {
   border: 1px solid black;
@@ -2183,7 +2228,10 @@ li {
   display: inline-block;
   padding: 1rem;
   border-radius: 5rem;
-  background: #fcf700;
+  background: transparent;
+}
+.btn-outlined-yellow:hover {
+  background: #fffa17;
 }
 
 .btn-white {
@@ -2195,6 +2243,9 @@ li {
   border-radius: 5rem;
   background: white;
 }
+.btn-white:hover {
+  background: white;
+}
 
 .btn-outlined-white {
   border: 1px solid black;
@@ -2204,5 +2255,8 @@ li {
   display: inline-block;
   padding: 1rem;
   border-radius: 5rem;
+  background: transparent;
+}
+.btn-outlined-white:hover {
   background: white;
 }

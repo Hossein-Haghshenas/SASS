@@ -2,7 +2,6 @@
   text-decoration: none;
   cursor: pointer;
   display: inline-block;
-
   padding: $p1;
   border-radius: $btn-radios;
   background: $bg-color;
@@ -16,10 +15,18 @@
   .btn-#{$key} {
     border: none;
     @include btn($val);
+
+    &:hover {
+      background: lighten($val, 5);
+    }
   }
   .btn-outlined-#{$key} {
     border: $btn-border;
     border-color: $val;
-    @include btn($val);
+    @include btn(transparent);
+
+    &:hover {
+      background: lighten($val, 5);
+    }
   }
 }
