@@ -1,19 +1,25 @@
-@mixin btn() {
+@mixin btn($bg-color: #e2e2e2) {
   text-decoration: none;
   cursor: pointer;
   display: inline-block;
-  border: none;
+
   padding: $p1;
   border-radius: $btn-radios;
+  background: $bg-color;
+}
+
+.btn {
+  @include btn();
 }
 
 @each $key, $val in $colors {
   .btn-#{$key} {
-    background: $val;
+    border: none;
+    @include btn($val);
   }
   .btn-outlined-#{$key} {
-    background: $val;
     border: $btn-border;
     border-color: $val;
+    @include btn($val);
   }
 }
