@@ -29,4 +29,16 @@
       background: lighten($val, 5);
     }
   }
+
+  .btn-complement-#{$key} {
+    border: $btn-border;
+    border-color: $val;
+    @include btn($val);
+    color: lightComp($val);
+
+    &:hover {
+      color: $val;
+      background: lightComp($val);
+    }
+  }
 }
