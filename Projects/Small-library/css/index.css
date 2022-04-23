@@ -44,6 +44,7 @@ li {
   border-radius: 1.6666666667rem;
 }
 
+/* layout-values */
 .container {
   width: 100%;
   min-width: 1200px;
@@ -487,6 +488,27 @@ li {
 .gap-3 {
   padding-left: -30px;
   padding-right: -30px;
+}
+
+/* layout-values */
+.justify-flex-start {
+  justify-content: flex-start;
+}
+
+.justify-flex-end {
+  justify-content: flex-end;
+}
+
+.justify-center {
+  justify-content: center;
+}
+
+.justify-space-between {
+  justify-content: space-between;
+}
+
+.justify-space-around {
+  justify-content: space-around;
 }
 
 .text-primery {

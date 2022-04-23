@@ -9,6 +9,10 @@ $grid-gap: (
   "3": 30px,
 );
 
+/* layout-values */
+
+$layout-values: flex-start, flex-end, center, space-between, space-around;
+
 // base layout classes
 
 .container {
@@ -82,5 +86,13 @@ $grid-gap: (
   .gap-#{$key} {
     padding-left: -$val;
     padding-right: -$val;
+  }
+}
+
+/* layout-values */
+
+@each $val in $layout-values {
+  .justify-#{$val} {
+    justify-content: $val;
   }
 }
