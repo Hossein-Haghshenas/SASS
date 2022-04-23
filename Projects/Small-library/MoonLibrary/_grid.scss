@@ -95,4 +95,7 @@ $layout-values: flex-start, flex-end, center, space-between, space-around;
   .justify-#{$val} {
     justify-content: $val;
   }
+  .align-#{$val} {
+    align-items: $val;
+  }
 }

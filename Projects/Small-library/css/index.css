@@ -24,6 +24,15 @@ li {
   list-style: none;
 }
 
+.d-flex {
+  display: flex;
+}
+
+.flex-column {
+  display: flex;
+  flex-direction: column;
+}
+
 .p1 {
   padding: 1rem;
 }
@@ -495,20 +504,40 @@ li {
   justify-content: flex-start;
 }
 
+.align-flex-start {
+  align-items: flex-start;
+}
+
 .justify-flex-end {
   justify-content: flex-end;
+}
+
+.align-flex-end {
+  align-items: flex-end;
 }
 
 .justify-center {
   justify-content: center;
 }
 
+.align-center {
+  align-items: center;
+}
+
 .justify-space-between {
   justify-content: space-between;
 }
 
+.align-space-between {
+  align-items: space-between;
+}
+
 .justify-space-around {
   justify-content: space-around;
+}
+
+.align-space-around {
+  align-items: space-around;
 }
 
 .text-primery {
@@ -2457,9 +2486,9 @@ li {
   flex-direction: column;
   padding: 1rem;
   margin: 1rem;
-  border: 1px solid black;
+  border: 1px solid rgba(151, 151, 151, 0.747);
   border-radius: 1.4285714286rem;
-  box-shadow: 0 0 5px 5px #5a5a5a;
+  box-shadow: 0 0 5px 1px rgba(158, 158, 158, 0.534);
   width: 10rem;
 }
 .card .card-title {
@@ -2499,7 +2528,7 @@ li {
 }
 
 .btn-outlined-primery {
-  border: 1px solid black;
+  border: 1px solid rgba(151, 151, 151, 0.747);
   border-color: #0059ff;
   text-decoration: none;
   cursor: pointer;
@@ -2513,7 +2542,7 @@ li {
 }
 
 .btn-complement-primery {
-  border: 1px solid black;
+  border: 1px solid rgba(151, 151, 151, 0.747);
   border-color: #0059ff;
   text-decoration: none;
   cursor: pointer;
@@ -2542,7 +2571,7 @@ li {
 }
 
 .btn-outlined-warning {
-  border: 1px solid black;
+  border: 1px solid rgba(151, 151, 151, 0.747);
   border-color: #fbff00;
   text-decoration: none;
   cursor: pointer;
@@ -2556,7 +2585,7 @@ li {
 }
 
 .btn-complement-warning {
-  border: 1px solid black;
+  border: 1px solid rgba(151, 151, 151, 0.747);
   border-color: #fbff00;
   text-decoration: none;
   cursor: pointer;
@@ -2585,7 +2614,7 @@ li {
 }
 
 .btn-outlined-danger {
-  border: 1px solid black;
+  border: 1px solid rgba(151, 151, 151, 0.747);
   border-color: red;
   text-decoration: none;
   cursor: pointer;
@@ -2599,7 +2628,7 @@ li {
 }
 
 .btn-complement-danger {
-  border: 1px solid black;
+  border: 1px solid rgba(151, 151, 151, 0.747);
   border-color: red;
   text-decoration: none;
   cursor: pointer;
@@ -2628,7 +2657,7 @@ li {
 }
 
 .btn-outlined-black {
-  border: 1px solid black;
+  border: 1px solid rgba(151, 151, 151, 0.747);
   border-color: black;
   text-decoration: none;
   cursor: pointer;
@@ -2642,7 +2671,7 @@ li {
 }
 
 .btn-complement-black {
-  border: 1px solid black;
+  border: 1px solid rgba(151, 151, 151, 0.747);
   border-color: black;
   text-decoration: none;
   cursor: pointer;
@@ -2671,7 +2700,7 @@ li {
 }
 
 .btn-outlined-red {
-  border: 1px solid black;
+  border: 1px solid rgba(151, 151, 151, 0.747);
   border-color: red;
   text-decoration: none;
   cursor: pointer;
@@ -2685,7 +2714,7 @@ li {
 }
 
 .btn-complement-red {
-  border: 1px solid black;
+  border: 1px solid rgba(151, 151, 151, 0.747);
   border-color: red;
   text-decoration: none;
   cursor: pointer;
@@ -2714,7 +2743,7 @@ li {
 }
 
 .btn-outlined-green {
-  border: 1px solid black;
+  border: 1px solid rgba(151, 151, 151, 0.747);
   border-color: #2bff00;
   text-decoration: none;
   cursor: pointer;
@@ -2728,7 +2757,7 @@ li {
 }
 
 .btn-complement-green {
-  border: 1px solid black;
+  border: 1px solid rgba(151, 151, 151, 0.747);
   border-color: #2bff00;
   text-decoration: none;
   cursor: pointer;
@@ -2757,7 +2786,7 @@ li {
 }
 
 .btn-outlined-magenta {
-  border: 1px solid black;
+  border: 1px solid rgba(151, 151, 151, 0.747);
   border-color: #9900ff;
   text-decoration: none;
   cursor: pointer;
@@ -2771,7 +2800,7 @@ li {
 }
 
 .btn-complement-magenta {
-  border: 1px solid black;
+  border: 1px solid rgba(151, 151, 151, 0.747);
   border-color: #9900ff;
   text-decoration: none;
   cursor: pointer;
@@ -2800,7 +2829,7 @@ li {
 }
 
 .btn-outlined-yellow {
-  border: 1px solid black;
+  border: 1px solid rgba(151, 151, 151, 0.747);
   border-color: #fcf700;
   text-decoration: none;
   cursor: pointer;
@@ -2814,7 +2843,7 @@ li {
 }
 
 .btn-complement-yellow {
-  border: 1px solid black;
+  border: 1px solid rgba(151, 151, 151, 0.747);
   border-color: #fcf700;
   text-decoration: none;
   cursor: pointer;
@@ -2843,7 +2872,7 @@ li {
 }
 
 .btn-outlined-white {
-  border: 1px solid black;
+  border: 1px solid rgba(151, 151, 151, 0.747);
   border-color: white;
   text-decoration: none;
   cursor: pointer;
@@ -2857,7 +2886,7 @@ li {
 }
 
 .btn-complement-white {
-  border: 1px solid black;
+  border: 1px solid rgba(151, 151, 151, 0.747);
   border-color: white;
   text-decoration: none;
   cursor: pointer;
